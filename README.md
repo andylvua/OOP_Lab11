@@ -1,4 +1,5 @@
-# Lab 10. Singleton & Adapter
+# Lab 11. Builder, Strategy & Proxy
+[![Java CI with Maven](https://github.com/andylvua/OOP_Lab11/actions/workflows/maven.yml/badge.svg)](https://github.com/andylvua/OOP_Lab11/actions/workflows/maven.yml)
 
 ## Description
 A simple example Builder, Strategy & Proxy design patterns.
