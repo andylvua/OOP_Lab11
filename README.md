@@ -17,6 +17,7 @@ A simple example Builder, Strategy & Proxy design patterns.
 ## Results
 Let's try to send a test email using MailJet service. 
 
+<img width="1397" alt="image" src="https://user-images.githubusercontent.com/93153950/205521380-2c274883-f86e-47c5-a5bc-039fc5a1adc5.png">
 
 as we can see, the email was sent successfully.
 
